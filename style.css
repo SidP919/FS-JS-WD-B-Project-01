@@ -134,9 +134,14 @@ li.list-item:first-child {
   padding: 6px 36px 6px 36px;
   color: #ffffff;
 }
+.star-2 {
+  top: 73px;
+  position: relative;
+  right: 341px;
+}
 .contact-heading {
   font-weight: bold;
   font-size: 24px;
   font-family: "Courier New", monospace;
-  margin: 64px 16px 16px 16px;
+  margin: 32px 16px 16px 16px;
 }
